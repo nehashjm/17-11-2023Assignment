@@ -1,0 +1,7 @@
+D:\mphasis Simplilearn\Day10\Day10Assignment\Day10Assignment\bin\Debug\Day10Assignment.exe.config
+D:\mphasis Simplilearn\Day10\Day10Assignment\Day10Assignment\bin\Debug\Day10Assignment.exe
+D:\mphasis Simplilearn\Day10\Day10Assignment\Day10Assignment\bin\Debug\Day10Assignment.pdb
+D:\mphasis Simplilearn\Day10\Day10Assignment\Day10Assignment\obj\Debug\Day10Assignment.csproj.AssemblyReference.cache
+D:\mphasis Simplilearn\Day10\Day10Assignment\Day10Assignment\obj\Debug\Day10Assignment.csproj.CoreCompileInputs.cache
+D:\mphasis Simplilearn\Day10\Day10Assignment\Day10Assignment\obj\Debug\Day10Assignment.exe
+D:\mphasis Simplilearn\Day10\Day10Assignment\Day10Assignment\obj\Debug\Day10Assignment.pdb
